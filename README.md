@@ -7,7 +7,7 @@
 ### eslin, prettier 부재
 - vanilla ts로 프로젝트 init하면, eslin, prettier 존재하지 않음
   - TODO: eslint, prettier 적용방법 알아보기
-## vitest
-- 테스트용 라이브러리 설치
+## `npm i -D vitest`
+- 테스트용 라이브러리 설치(`vitest`)
 - `Xxxx.spec.js` 파일이 테스트를 담당하는것으로 보임
   - TODO: ts로도 적용가능한지 알아보기
