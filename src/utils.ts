@@ -9,3 +9,7 @@ export function decrease(count: number) {
 export function temp() {
   console.log(1);
 }
+
+export function temp2() {
+  return 1;
+}
