@@ -11,7 +11,9 @@ module.exports = {
     'vite.config.js',
     'vitest.setup.js',
   ],
+  parser: '@typescript-eslint/parser',
   parserOptions: {
+    project: ['./tsconfig.json'],
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
